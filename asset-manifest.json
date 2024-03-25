@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1f3220d.css",
+    "main.js": "/static/js/main.63568fcf.js",
+    "static/js/453.5e560239.chunk.js": "/static/js/453.5e560239.chunk.js",
+    "static/media/challenge.png": "/static/media/challenge.d465e3922cc5a712aeec.png",
+    "static/media/earth.png": "/static/media/earth.e78209551bd948bd2f92.png",
+    "static/media/background.png": "/static/media/background.4cbc481e336d8b533020.png",
+    "static/media/target.png": "/static/media/target.bd86831c366b59efd191.png",
+    "static/media/bulb.png": "/static/media/bulb.0f55bb27adafd9836c01.png",
+    "static/media/quiz_background.png": "/static/media/quiz_background.2e50bb0d766dd9df8b8d.png",
+    "static/media/plant.png": "/static/media/plant.316e69f698308cefdde3.png",
+    "static/media/renewable.png": "/static/media/renewable.3e58b0dc4a4507b9ea7e.png",
+    "static/media/logo.png": "/static/media/logo.64f894268d549e8cd6e2.png",
+    "static/media/background2.png": "/static/media/background2.1c8dabc9a757432a5e6a.png",
+    "static/media/sdg_logo.png": "/static/media/sdg_logo.77740fbde99c90d71bb7.png",
+    "static/media/insta-removebg-preview.png": "/static/media/insta-removebg-preview.868d48ec58db0e28c3b7.png",
+    "static/media/x-removebg-preview.png": "/static/media/x-removebg-preview.63182803d4889de37f86.png",
+    "static/media/facebook-removebg-preview.png": "/static/media/facebook-removebg-preview.0f6dd5316ef84e1584db.png",
+    "static/media/google-removebg-preview.png": "/static/media/google-removebg-preview.2f10cf5bee9284bb3af8.png",
+    "index.html": "/index.html",
+    "main.e1f3220d.css.map": "/static/css/main.e1f3220d.css.map",
+    "main.63568fcf.js.map": "/static/js/main.63568fcf.js.map",
+    "453.5e560239.chunk.js.map": "/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1f3220d.css",
+    "static/js/main.63568fcf.js"
+  ]
+}
